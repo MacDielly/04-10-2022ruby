@@ -9,6 +9,3 @@ end
 end
 
 puts nums
-
-
-
